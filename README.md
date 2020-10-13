@@ -39,11 +39,15 @@ and reviewed these together, after which we worked together on the mini-
 codebase we had on Maja's local repository. Using Discord screensharing, we could
 both see the code and we tried to come up with solutions based on the error
 and bug messages we received after running the tests, helped by the reading
-of the tests. Since the latest update, you can find our solution to this
+of the tests. We needed to put our heads together for makings sense of it
+and shared our knowledge where possible, so we could really think together
+on improving the code. Since the latest update, you can find our solution to this
 challenge in the bob.py file in this repository, along with the test as it was
 executed during working time. It was not edited, though we first had a class
 in our module bob and this didn't work well with the tests, so Maja tried first
 to let the imports atop the test module refer to the class, which she didn't
 really know how to and we decided it was better to mess with our own code to make
-it conform to what the tests were going for. We did keep in mind to make the code
-general and not test-specific while doing this.
+it conform to what the tests seemd to be going for, a single function inside the 
+file "bob.py". We did keep in mind to make the code general and not test-specific 
+while doing this. Overall, we both contributed with solutions and logic through
+voice and chat conversation.
