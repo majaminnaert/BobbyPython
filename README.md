@@ -55,7 +55,11 @@ voice and chat conversation.
 ## Changelog
 
 14-10-2020: added new branch for BobbyPython 0.2: The Class Edition
+
             In branch:
+            
             wrapped Bobby in a class, so the kid can learn, in bob.py
+            
             adapted import line in bob_test.py to refer to Bob class correctly
+            
             (Maja)
