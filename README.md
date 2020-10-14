@@ -54,7 +54,7 @@ voice and chat conversation.
 
 ## Changelog
 
-14-10-2020: added new branch for BobbyPython 0.2: The Class Edition
+14-10-2020 @ 17:25: added new branch for BobbyPython 0.2: The Class Edition
 
             In branch:
             
