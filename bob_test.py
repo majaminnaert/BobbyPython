@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 import unittest
 
-import bob
+from bob import Bob as bob
 
 
 class BobTests(unittest.TestCase):

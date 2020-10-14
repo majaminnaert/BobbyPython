@@ -7,15 +7,21 @@
 #
 # He answers 'Whatever.' to anything else.
 
-def hey(message):
-    message = message.rstrip()
-    if message.endswith("?") and not message.isupper():
-        return "Sure."
-    elif message.isupper():
-        return "Whoa, chill out!"
-    elif not message or message.isspace():
-        return "Fine. Be that way!"
-    else:
-        return "Whatever."
+class Bob:
+    """A Bob is a stubborn teenagers with only four answers."""
+
+    def __init__(self):
+        pass
+
+    def hey(message):
+        message = message.rstrip()
+        if message.endswith("?") and not message.isupper():
+            return "Sure."
+        elif message.isupper():
+            return "Whoa, chill out!"
+        elif not message or message.isspace():
+            return "Fine. Be that way!"
+        else:
+            return "Whatever."
 
 
