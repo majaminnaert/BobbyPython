@@ -51,3 +51,11 @@ it conform to what the tests seemd to be going for, a single function inside the
 file "bob.py". We did keep in mind to make the code general and not test-specific 
 while doing this. Overall, we both contributed with solutions and logic through
 voice and chat conversation.
+
+## Changelog
+
+14-10-2020: added new branch for BobbyPython 0.2: The Class Edition
+            In branch:
+            wrapped Bobby in a class, so the kid can learn, in bob.py
+            adapted import line in bob_test.py to refer to Bob class correctly
+            (Maja)
